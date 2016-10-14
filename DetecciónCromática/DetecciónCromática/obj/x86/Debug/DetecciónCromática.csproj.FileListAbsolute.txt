@@ -1,0 +1,8 @@
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\bin\Debug\DetecciónCromática.exe
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\bin\Debug\DetecciónCromática.pdb
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.csprojResolveAssemblyReference.cache
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.Form1.resources
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.Properties.Resources.resources
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.csproj.GenerateResource.Cache
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.exe
+c:\users\liz\documents\visual studio 2010\Projects\DetecciónCromática\DetecciónCromática\obj\x86\Debug\DetecciónCromática.pdb
